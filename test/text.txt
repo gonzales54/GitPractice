@@ -1,3 +1,6 @@
 Apple
 Blue
 Color
+Hello World
+Good Morning
+Good Afternoon
